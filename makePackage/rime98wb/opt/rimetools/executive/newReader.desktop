@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-VERSION=1.0
+Type=Application
+Name=newReader
+Exec=/opt/rimetools/setup.sh
+Icon=/opt/rimetools/executive/rimetool.ico
+Comment=InputMethod tools
+Terminal=false
+Categories=System;Utility;
+
+
+

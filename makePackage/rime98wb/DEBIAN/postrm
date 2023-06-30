@@ -1,0 +1,8 @@
+#!/bin/sh
+for username in `ls /home`      
+do
+      echo /home/$username
+      if [ -d /home/$username/.local/share/fcitx5/rime ];then
+      rm -rf /home/$username/.local/share/fcitx5/rime
+      fi
+done

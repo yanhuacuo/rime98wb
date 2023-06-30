@@ -1,0 +1,9 @@
+Package: rime98wb
+Version: 1.0.1
+Architecture: amd64
+Maintainer: wubi98
+Secion: utils
+Priority: optional
+Installed_Size: 20
+Description: _Wubi98_for_fcitx5-rime
+Depends: fcitx5,fcitx5-rime,librime-plugin-lua,fcitx5-frontend-qt6

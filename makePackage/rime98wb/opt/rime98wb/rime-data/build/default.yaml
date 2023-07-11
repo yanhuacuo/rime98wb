@@ -128,7 +128,6 @@ schema_list:
   - schema: wubi98_ci
   - schema: wubi98_dz
   - schema: py
-  - schema: wb_spelling
 switcher:
   abbreviate_options: true
   caption: "〔方案選單〕"
